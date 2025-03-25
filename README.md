@@ -1,12 +1,8 @@
 # zsdev-fullstack
 
-Got it! Here's a **super basic README.md** with simple placeholder data:
-
----
-
 # Project Name
 
-A short description of what your project does.
+Sample project for fullstack development.
 
 ## Installation
 
